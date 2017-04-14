@@ -1,0 +1,72 @@
+{
+"name": "Sam Recipe Collection",
+"recipes": [
+	{
+		"title": "Chocolate PB Smoothie",
+		"categories": [
+			"smoothie",
+			"dessert"
+		],
+		"serves": 1,
+		"prep": "1 minute",
+		"wait": "1 minute",
+		"ingredients": [
+			"2 bananas - cut into chunks and frozen",
+			"2 Tablespoons creamy peanut butter",
+			"1 Cup milk",
+			"1/2 Teaspoon vanilla extract",
+			"1/4 Cup chocolate chips"
+		],
+		"instructions": [
+			"Toss all ingredients in a blender and blend until smooth."
+		]
+	},
+	{
+		"title": "Hearth Bread",
+		"categories": [
+			"bread"
+		],
+		"serves": 15,
+		"prep": "20 minutes",
+		"wait": "3 hours",
+		"ingredients": [
+			"2 1/4 Teaspoon instant yeast",
+			"1 Tablespoon sugar",
+			"1 Tablespoon salt",
+			"2 Cups lukewarm water",
+			"5 1/2 to 6 Cups unbleached all-purpose flour",
+			"cornmeal - for sprinkling on the pan"
+		],
+		"instructions": [
+			"Mix all of the ingredients together, using the smaller amount of flour. Mix thoroughly until the dough pulls away from the sides of the bowl, adding more of the flour if necessary. Turn the dough out onto a floured surface to knead.",
+			"Knead the bread for about 5 minutes, sprinkling only enough flour on the kneading surface to prevent sticking. Let the dough rest for a couple minutes and then knead again for 2 to 3 minutes.",
+			"Grease a bowl and place the dough inside. Turn it over once to grease the top. Cover with plastic wrap and place in a warm, draft-free place. Wait for the dough to double in bulk, about 1 to 2 hours",
+			"Gently deflate the dough. Cut it in half and shape into 2 oval Italian-style loaves. Place the loaves on a baking sheet generously sprinkled with cornmeal. Let the loaves rest for 5 minutes.",
+			"Lightly slash the tops of the loaves three or more times diagonally and brush them with cold water. Place the pan on the middle rack of a cold oven with a roasting filled about 1 inch deep with boiling water on the oven bottom. Set the oven temperature to 450°F, and turn on the oven.",
+			"Bake the bread for 35 to 45 minutes, until the crust is golden brown and sounds hollow to the touch. Its interior temperature should register at least 190°F on a digital thermometer.",
+			"Remove the loaves from the oven, take them off the pan, and return them to the oven, placing them right on the rack. Turn the oven off and crack the door open several inches. Let the loaves cool in the cooling oven; this will make them extra-crusty.",
+			"Store completely cool bread in a paper bag at room temperature for a couple of days. For longer storage, wrap well and freeze."
+		]
+	},
+	{
+		"title": "",
+		"categories": [
+			"",
+			""
+		],
+		"serves": ,
+		"prep": "",
+		"wait": "",
+		"ingredients": [
+			"",
+			"",
+			""
+		],
+		"instructions": [
+			"",
+			""
+		]
+	}
+]
+
+}
