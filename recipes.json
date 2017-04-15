@@ -7,7 +7,7 @@
 			"smoothie",
 			"dessert"
 		],
-		"serves" : 1,
+		"serves" : "1",
 		"prep" : "1 minute",
 		"wait" : "1 minute",
 		"ingredients" : [
@@ -26,7 +26,7 @@
 		"categories" : [
 			"bread"
 		],
-		"serves" : 15,
+		"serves" : "15",
 		"prep" : "20 minutes",
 		"wait" : "3 hours",
 		"ingredients" : [
@@ -54,7 +54,7 @@
 			"",
 			""
 		],
-		"serves" : ,
+		"serves" : "",
 		"prep" : "",
 		"wait" : "",
 		"ingredients" : [
