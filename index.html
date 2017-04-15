@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Cookbook v2</title>
+    <title>Cookbook v3</title>
   <meta name="author" content="name">
   <meta name="description" content="Recipe database website">
   <meta name="keywords" content="cookbook,recipe,recipes,cook,cooking">
@@ -24,12 +24,11 @@
 
   <script type="text/javascript">
   $.getJSON('recipes.json', function(data) {
-    var output="<ul>";
+    var output="";
     for (var i in data.recipes) {
-      output+="<li>" + data.recipes[i].title + "</li>";
+      output+="<div>" + "<h3>" + data.recipes[i].title + "</h3><p>serves: " + data.recipes[i].serves + "</p><p>prep: " + data.recipes[i].prep + "</p><p>wait: " + data.recipes[i].wait + "</p>" "</div>";
     }
 
-    output+="</ul>";
     document.getElementById("recipe-block").innerHTML=output;
   });
 
