@@ -7,3 +7,10 @@
 	min-width: 100px;
 	min-height: 100px;
 }
+
+#recipe-block > div > button {
+	text-align: center;
+	border-radius: 0px;
+	border: 1px solid #333;
+	padding: 2px;
+}

@@ -26,7 +26,7 @@
   $.getJSON('recipes.json', function(data) {
     var output="";
     for (var i in data.recipes) {
-      output+="<div>" + "<h3>" + data.recipes[i].title + "</h3><p>serves: " + data.recipes[i].serves + "</p><p>prep: " + data.recipes[i].prep + "</p><p>wait: " + data.recipes[i].wait + "</p>" + "</div>";
+      output+="<div>" + "<h3>" + data.recipes[i].title + "</h3><p>serves: " + data.recipes[i].serves + "</p><p>prep: " + data.recipes[i].prep + "</p><p>wait: " + data.recipes[i].wait + "</p>" + "<button>View Recipe</button></div>";
     };
 
     document.getElementById("recipe-block").innerHTML=output;
