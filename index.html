@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Cookbook Test8</title>
+    <title>Cookbook Test9</title>
   <meta name="author" content="name">
   <meta name="description" content="Recipe database website">
   <meta name="keywords" content="cookbook,recipe,recipes,cook,cooking">
@@ -21,7 +21,37 @@
       <h1>Sam's Recipes</h1>
     </header>
 
+    <!-- Modal -->
+    <div class="modal fade" id="cpb-smoothie-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Chocolate Peanut Butter Smoothie</h4>
+          </div>
+          <div class="modal-body">
+            <h3>- Ingredients -</h3>
+            <ul>
+                <li>2 bananas - cut into chunks and frozen</li>
+                <li>2 Tablespoons creamy peanut butter</li>
+                <li>1 Cup milk</li>
+                <li>1/2 Teaspoon vanilla extract</li>
+                <li>1/4 Cup Chocolate chips</li>
+            </ul>
+            <p>Toss all ingredients in a blender and blend until smooth.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <section class="recipe-block">
+
+      <div>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#cpb-smoothie-modal">Test Modal</button>
+      </div>
 
     </section>
 
