@@ -13,7 +13,7 @@ jQuery(document).ready(function() {
     		for (var i in recipe.categories) {
     			recipeList.push(recipe.categories[i] + ' ');
     		}
-    		recipeList.push('"><h3>' + recipe.title + '</h3><p>serves: ' + recipe.serves + '</p><p>prep: ' + recipe.prep + '</p><p>wait: ' + recipe.wait + '</p></div>');
+    		recipeList.push('"><h3>' + recipe.title + '</h3><p>serves: ' + recipe.serves + '</p><p>prep: ' + recipe.prep + '</p><p>wait: ' + recipe.wait + '</p><button class="btn btn-default">View Recipe</button></div>');
     	});
 
     	// add all recipes to main section
