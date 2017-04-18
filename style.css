@@ -1,6 +1,6 @@
 
 
-#recipe-block > div {
+.recipe-block > div {
 	margin: 10px;
 	border: 2px solid #333;
 	padding: 5px;
@@ -8,7 +8,7 @@
 	min-height: 100px;
 }
 
-#recipe-block > div > button {
+.recipe-block > div > button {
 	text-align: center;
 	border-radius: 0px;
 	border: 1px solid #333;
