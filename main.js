@@ -9,11 +9,11 @@ jQuery(document).ready(function() {
 
     	// loop through list of recipes
     	$.each(data.recipes, function(key, recipe) {
-    		recipeList.push('<div><h3>' + recipe.title + '</h3>');
+    		recipeList.push('<div class="');
     		for (var i in recipe.categories) {
-    			recipeList.push('<p>' + recipe.categories[i] + '</p>');
+    			recipeList.push(recipe.categories[i] + ' ');
     		}
-    		recipeList.push('<p>serves: ' + recipe.serves + '</p></div>');
+    		recipeList.push('"><h3>' + recipe.title + '</h3><p>serves: ' + recipe.serves + '</p></div>');
     	});
 
     	// add all recipes to main section
