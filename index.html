@@ -24,13 +24,14 @@
 
   <script type="text/javascript">
   $.getJSON('recipes.json', function(data) {
-    var output="";
-    for (var i in data.recipes) {
-      output+="<div>" + "<h3>" + data.recipes[i].title + "</h3><p>serves: " + data.recipes[i].serves + "</p><p>prep: " + data.recipes[i].prep + "</p><p>wait: " + data.recipes[i].wait + "</p>" + "<button>View Recipe</button></div>";
-    };
-
-    document.getElementById("recipe-block").innerHTML=output;
+    populateHeader(recipes);
   });
+
+  function populateHeader(data) {
+    var myH1 = document.createElement('h1');
+    myH1.textContent = data['name'];
+    header.appendChild(myH1);
+  }
 
   </script>
 
