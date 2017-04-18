@@ -11,7 +11,7 @@ jQuery(document).ready(function() {
     	$.each(data.recipes, function(key, recipe) {
     		recipeList.push('<div><h3>' + recipe.title + '</h3>');
     		for (var i in recipes.categories) {
-    			recipeList.push('<p>' + recipes.categories[i] + '</p>');
+    			recipeList.push('<p>' + recipe.categories[i] + '</p>');
     		}
     		recipeList.push('<p>serves: ' + recipe.serves + '</p></div>');
     	});
