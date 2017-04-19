@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Cookbook Test10</title>
+    <title>Cookbook Test11</title>
   <meta name="author" content="name">
   <meta name="description" content="Recipe database website">
   <meta name="keywords" content="cookbook,recipe,recipes,cook,cooking">
@@ -12,7 +12,6 @@
   <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
   <link rel="stylesheet" href="style.css" type="text/css">
   <!-- add javascript -->
-  <!-- <script type="text/javascript" src="jquery-1.7.2.min.js"></script> -->
   <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <script type="text/javascript" src="main.js"></script> 
@@ -24,23 +23,22 @@
     </header>
 
     <!-- Modal -->
-    <div class="modal fade" id="cpb-smoothie-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal fade" id="recipe-modal" tabindex="-1" role="dialog">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <h4 class="modal-title" id="myModalLabel">Chocolate Peanut Butter Smoothie</h4>
+            <h4 class="modal-title"></h4>
           </div>
           <div class="modal-body">
             <h3>- Ingredients -</h3>
-            <ul>
-                <li>2 bananas - cut into chunks and frozen</li>
-                <li>2 Tablespoons creamy peanut butter</li>
-                <li>1 Cup milk</li>
-                <li>1/2 Teaspoon vanilla extract</li>
-                <li>1/4 Cup Chocolate chips</li>
+            <ul class="modal-ingredients-list">
+                
             </ul>
-            <p>Toss all ingredients in a blender and blend until smooth.</p>
+            <h3>- Instructions -</h3>
+            <ul class="modal-steps-list">
+
+            </ul>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -55,7 +53,7 @@
 
     <footer>
       <div>
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#cpb-smoothie-modal">Test Modal</button>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#recipe-modal">Test Modal</button>
       </div>
     </footer>
 
