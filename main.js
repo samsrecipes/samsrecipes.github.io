@@ -26,6 +26,8 @@ jQuery(document).ready(function() {
     	var button = $(e.relatedTarget);
     	var details = button.data('recipe');
 
+    	var recipeTitle = "";
+
     	alert(details);
 
     	$.getJSON('recipes.json', function(data) {
@@ -34,9 +36,11 @@ jQuery(document).ready(function() {
     		// var recipeSteps = [];
     		// loop through target recipe data
     		alert(recipeTitle);
+    		return recipeTitle;
 
-    		$('.modal-title').innerHTML(recipeTitle);
     	});
+    	var modal = $(this);
+    	modal.find('.modal-title').text(recipeTitle);
     });
 
 });
