@@ -24,7 +24,7 @@ jQuery(document).ready(function() {
     $('#recipe-modal').on('show.bs.modal', function(e) {
 
     	var button = $(e.relatedTarget);
-    	var details = int(button.data('recipe'));
+    	var details = button.data('recipe');
 
     	alert(details);
 
@@ -33,6 +33,7 @@ jQuery(document).ready(function() {
     		// var recipeIngredients = [];
     		// var recipeSteps = [];
     		// loop through target recipe data
+    		alert(recipeTitle);
 
     		var modal = $(this);
     		modal.find('.modal-title').text(recipeTitle);
