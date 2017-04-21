@@ -2,6 +2,7 @@
 "name" : "Sam Recipe Collection",
 "recipes" : [
 	{
+		"designation" : "0",
 		"title" : "Chocolate PB Smoothie",
 		"categories" : [
 			"smoothie",
@@ -22,6 +23,7 @@
 		]
 	},
 	{
+		"designation" : "1",
 		"title" : "Hearth Bread",
 		"categories" : [
 			"bread"
@@ -49,6 +51,7 @@
 		]
 	},
 	{
+		"designation" : "2",
 		"title" : "",
 		"categories" : [
 			"",
