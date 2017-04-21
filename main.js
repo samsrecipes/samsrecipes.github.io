@@ -35,7 +35,7 @@ jQuery(document).ready(function() {
     		// loop through target recipe data
     		alert(recipeTitle);
 
-    		$('.modal-title').html(recipeTitle.join(''));
+    		$('.modal-title').innerHTML(recipeTitle);
     	});
     });
 
