@@ -22,10 +22,11 @@ jQuery(document).ready(function() {
     });
 
     $('#recipe-modal').on('show.bs.modal', function(e) {
-    	alert('hello');
 
     	var button = $(e.relatedTarget);
     	var details = button.data('recipe');
+
+    	alert(details);
 
     	$.getJSON('recipes.json', function(data) {
     		var recipeTitle = data.recipes[details].title;
