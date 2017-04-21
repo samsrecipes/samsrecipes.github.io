@@ -31,7 +31,7 @@ jQuery(document).ready(function() {
     	alert(details);
 
     	$.getJSON('recipes.json', function(data) {
-    		var recipeTitle = data.recipes[details].title;
+    		recipeTitle = data.recipes[details].title;
     		// var recipeIngredients = [];
     		// var recipeSteps = [];
     		// loop through target recipe data
