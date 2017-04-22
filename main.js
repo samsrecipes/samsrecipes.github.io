@@ -9,7 +9,7 @@ jQuery(document).ready(function() {
 
     	// loop through list of recipes
     	$.each(data.recipes, function(key, recipe) {
-    		recipeList.push('<div class="');
+    		recipeList.push('<div class="recipe-item col-md-4 ');
     		for (var i in recipe.categories) {
     			recipeList.push(recipe.categories[i] + ' ');
     		}

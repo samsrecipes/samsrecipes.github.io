@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Cookbook Test20</title>
+    <title>Cookbook Test21</title>
   <meta name="author" content="name">
   <meta name="description" content="Recipe database website">
   <meta name="keywords" content="cookbook,recipe,recipes,cook,cooking">
@@ -17,10 +17,6 @@
   <script type="text/javascript" src="main.js"></script> 
   </head>
   <body>
-
-    <header>
-      <h1>Sam's Recipes</h1>
-    </header>
 
     <!-- Modal -->
     <div class="modal fade" id="recipe-modal" tabindex="-1" role="dialog">
@@ -47,15 +43,35 @@
       </div>
     </div>
 
-    <section class="recipe-block">
+    <!-- Main Container -->
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar"> <!-- Sidebar Navigation -->
+            <h4 class="sidebar-title">Menu</h4>
+          <ul class="nav nav-sidebar">
+            <li id="all-nav" class="active"><a href="#">All</a></li>
+            <li id="appetizer-nav"><a href="#">Appetizer</a></li>
+            <li id="bread-nav"><a href="#">Bread</a></li>
+            <li id="breakfast-nav"><a href="#">Breakfast</a></li>
+            <li id="dessert-nav"><a href="#">Dessert</a></li>
+            <li id="dinner-nav"><a href="#">Dinner</a></li>
+            <li id="smoothie-nav"><a href="#">Smoothie</a></li>
+            <li id="snack-nav"><a href="#">Snack</a></li>
+            <li id="soup-nav"><a href="#">Soup</a></li>
+          </ul>
+          <ul class="nav nav-sidebar">
+            <li><a href="">Random Recipe</a></li>
+            <li><a href="">Alphebetical</a></li>
+            <li><a href="">Another nav item</a></li>
+          </ul>
+        </div> <!-- End Sidebar Nav -->
 
-    </section>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 recipe-block"> <!-- Holds recipes from JSON -->
 
-    <footer>
-      <div>
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#recipe-modal">Test Modal</button>
+        </div>
+
       </div>
-    </footer>
+    </div>
 
   </body>
 </html>

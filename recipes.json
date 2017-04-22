@@ -52,6 +52,38 @@
 	},
 	{
 		"designation" : 2,
+		"title" : "Easy Chicken Parm",
+		"categories" : [
+			"Dinner"
+		],
+		"serves" : "4",
+		"prep" : "15 minutes",
+		"wait" : "30 minutes",
+		"ingredients" : [
+			"4 boneless chicken breasts, pounded to 1/2 inch thickness",
+			"1 large egg",
+			"1/2 Cup milk",
+			"seasoned breadcrumbs",
+			"2 - 3 Tablespoons olive oil",
+			"8 Slices mozzarella cheese",
+			"16 Oz spaghetti sauce",
+			"8 Oz spaghetti",
+			"parmesan cheese"
+		],
+		"instructions" : [
+			"Heat the oven to 350° F (180° C/Gas 4). Lightly grease a 9 x 13-inch baking dish.",
+			"Whisk together the egg and milk in a bowl.",
+			"Put the seasoned breadcrumbs in a wide, shallow bowl.",
+			"Dip the chicken breasts in milk and egg mixture and then in breadcrumbs, turning to coat thoroughly.",
+			"Heat the olive oil in a large skillet or saute pan over medium-high heat.",
+			"Brown the chicken in the hot oil on both sides until golden brown, about 3 to 4 minutes on each side.",
+			"Arrange the chicken in the prepared baking dish.",
+			"Slice 8 pieces of mozzarella cheese and put two on each chicken breast. Pour 1 jar of your favorite spaghetti sauce over all. Sprinkle with Parmesan cheese and a little more mozzarella and bake for about 25 to 30 minutes, or until bubbly.",
+			"Meanwhile, cook the spaghetti or linguine in boiling salted water following package directions. Drain well."
+		]
+	},
+	{
+		"designation" : 3,
 		"title" : "",
 		"categories" : [
 			"",
