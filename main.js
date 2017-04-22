@@ -33,7 +33,10 @@ jQuery(document).ready(function() {
     	$.getJSON('recipes.json', function(data) {
     		recipeTitle = data.recipes[details].title;
     		for (var j in data.recipes[details].ingredients) {
-    			recipeIngredients.push('<li>' + data.recipes[details].ingredients[j] + '</li>')
+    			recipeIngredients.push('<li>' + data.recipes[details].ingredients[j] + '</li>');
+    		};
+    		for (var k in data.recipes[details].instructions) {
+    			recipeSteps.push('<li>' + data.recipes[details].instructions[k] + '</li>');
     		};
 
     		$('.modal-title').html(recipeTitle);
