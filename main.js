@@ -27,17 +27,18 @@ jQuery(document).ready(function() {
     	var details = button.data('designation');
 
     	var recipeTitle = "";
-
-    	alert(details);
+    	var recipeIngredients = [];
+    	var recipeSteps = [];
 
     	$.getJSON('recipes.json', function(data) {
     		recipeTitle = data.recipes[details].title;
-    		// var recipeIngredients = [];
-    		// var recipeSteps = [];
-    		// loop through target recipe data
-    		$('.modal-title').html(recipeTitle);
+    		for (var j in data.recipes[details].ingredients) {
+    			recipeIngredients.push('<li>' + data.recipes[details].ingredients[j] + '</li>')
+    		};
 
-    		alert(recipeTitle);
+    		$('.modal-title').html(recipeTitle);
+    		$('.modal-ingredients-list').html(recipeIngredients);
+    		$('.modal-steps-list').html(recipeSteps);
 
     	});
 
