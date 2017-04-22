@@ -1,5 +1,28 @@
+/*
+ * Custom Style for Cookbook
+ */
 
+/*
+ * INDEX
+ *  - Color Scheme
+ *  - List / Nav
+ *  - Sidebar
+ *  - Content Block
+ *  - Recipe Card
+ *
+ */
 
+ /* 
+ * Color Scheme
+ *   Blue   -> #004E66
+ *   Yellow -> #FCBE32
+ *   Orange -> #FF5F2E
+ *   Gray   -> #E1EEF6
+ */
+
+ * {
+  font-family: 'Open Sans', sans-serif;
+}
 
 /* ==========
    LIST / NAV
@@ -81,3 +104,23 @@
   color: #fff;
   background-color: #337ab7;
 }
+
+
+/* =============
+   CONTENT BLOCK
+   ============= */
+
+.recipe-block {
+	margin-top: 50px;
+}   
+
+
+/* ===========
+   RECIPE CARD
+   ==========  */
+
+.panel-heading {
+	min-height: 50px;
+	font-size: 1.5em;
+	font-weight: bold;
+}   
