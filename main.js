@@ -13,7 +13,7 @@ jQuery(document).ready(function() {
     		for (var i in recipe.categories) {
     			recipeList.push(recipe.categories[i] + ' ');
     		}
-    		recipeList.push('"><div class="panel panel-default"><div class="panel-heading">' + recipe.title + '</div><div class="panel-body"><p>serves: ' + recipe.serves + '</p><p><img class="card-icon" src="img/clock.svg">prep: ' + recipe.prep + '</p><p><img class="card-icon" src="img/clock.svg">wait: ' + recipe.wait + '</p><button type="button" class="btn btn-default btn-view-recipe" data-toggle="modal" data-designation="' + recipe.designation + '" data-target="#recipe-modal">View Recipe</button></div></div></div>');
+    		recipeList.push('"><div class="panel panel-default"><div class="panel-heading">' + recipe.title + '</div><div class="panel-body"><p>serves: ' + recipe.serves + '</p><p><img class="card-icon" src="img/clock.svg">prep: ' + recipe.prep + '</p><p><img class="card-icon" src="img/clock.svg">wait: ' + recipe.wait + '</p class="btn-view-recipe"><button type="button" class="btn btn-default" data-toggle="modal" data-designation="' + recipe.designation + '" data-target="#recipe-modal">View Recipe</button></div></div></div>');
     	});
 
     	// add all recipes to main section
