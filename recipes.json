@@ -26,9 +26,10 @@
 		"designation" : 1,
 		"title" : "Hearth Bread",
 		"categories" : [
-			"bread"
+			"bread",
+			"snack"
 		],
-		"serves" : "15",
+		"serves" : "2 large loaves",
 		"prep" : "20 minutes",
 		"wait" : "3 hours",
 		"ingredients" : [
@@ -84,6 +85,243 @@
 	},
 	{
 		"designation" : 3,
+		"title" : "Easy White Bread",
+		"categories" : [
+			"bread",
+			"snack"
+		],
+		"serves" : "1 large loaf",
+		"prep" : "20 minutes",
+		"wait" : "2.5 hours",
+		"ingredients" : [
+			"500 Grams strong white flour",
+			"2 Teaspoons salt",
+			"7 Grams sachet fast-action yeast",
+			"3 Tablespoons olive oil",
+			"300 ml water"
+		],
+		"instructions" : [
+			"Mix the flour, salt and yeast in a large bowl. Make a well in the centre, then add the oil and water, and mix well. If the dough seems a little stiff, add 1-2 tbsp water, mix well then tip onto a lightly floured work surface and knead. Once the dough is satin-smooth, place it in a lightly oiled bowl. Leave to rise for 1 hour until doubled in size or place in the fridge overnight.",
+			"Line a baking tray with baking parchment. Knock back the dough, then gently mould the dough into a ball. Place it on the baking parchment to prove for a further hour until doubled in size.",
+			"Heat oven to 220C/fan 200C/gas 7. Dust the loaf with flour and cut a cross about 6cm long into the top of the loaf with a sharp knife. Bake for 25-30 mins until golden brown and the loaf sounds hollow when tapped underneath. Cool on a wire rack."
+		]
+	},
+	{
+		"designation" : 4,
+		"title" : "Over Roasted Hamburgers",
+		"categories" : [
+			"dinner"
+		],
+		"serves" : "6",
+		"prep" : "10 minutes",
+		"wait" : "15 minutes",
+		"ingredients" : [
+			"1 1/2 Teaspoons kosher salt",
+			"2 Pounds ground beef",
+			"1 Tablespoon Worcestershire sauce",
+			"1/2 Teaspoon ground pepper",
+			"6 toasted hamburger buns"
+		],
+		"instructions" : [
+			"Position a rack in the center of the oven and heat to 475 degrees (450 degrees in a convection oven). Line a heavy-duty rimmed baking sheet with aluminum foil, and spread a thin layer of salt over the surface of the foil to absorb any drippings and prevent the oven from smoking. Arrange a wire rack so that it sits at least 3/4 inch above the surface of the pan.",
+			"Break the beef into 1- to 2-inch lumps with your hands and drop into a mixing bowl. Season with salt, Worcestershire, and a generous amount of black pepper. Mix gently, using your fingertips to break up the meat and incorporate the seasonings. Over-handling the beef will make for tough, dry burgers.",
+			"Divide the meat into 6 portions. Lightly shape the beef into disks about 3 1/4 inches across and about 1 inch thick. Set the burgers at least 1 inch apart on the wire rack.",
+			"Roast the burgers for 10 to 16 minutes, checking on them either with an instant-read thermometer (the quickest way) or by cutting into one to peek. For medium-rare, look for 130 to 135 degrees; for medium, 140 degrees; for medium-well, 160 degrees. If adding cheese, top the burgers with cheese when they are about 2 degrees away from being done to your liking and return them to the oven for 1 minute to melt the cheese.",
+			"Transfer the burgers to buns, English muffins, split focaccia, or favorite bread and garnish as you like."
+		]
+	},
+	{
+		"designation" : 5,
+		"title" : "Easy Sourdough Bread",
+		"categories" : [
+			"bread",
+			"snack"
+		],
+		"serves" : "1 large loaf",
+		"prep" : "10 minutes",
+		"wait" : "9 hours",
+		"ingredients" : [
+			"3 Cups bread flour",
+			"1 17.6 Ounce tub plain unsweetened Greek yogurt with active cultures",
+			"1/2 - 1 Cup sour cream",
+			"1 Teaspoon salt",
+			"Scant 1 Teaspoon instant dry yeast"
+		],
+		"instructions" : [
+			"To the bowl of a stand mixer fitted with the dough hook (or use a large mixing bowl and wooden spoon and your hands), add the flour, Greek yogurt, 1/2 cup sour cream, salt, and yeast.",
+			"Turn mixer on low speed and allow it to knead dough for about 5 to 7 minutes (about 7 to 10 minutes by hand using a wooden spoon and then switching to your hands). Add sour cream as needed to form a very moist and wet dough. If it's at all dry or crumbly, add more sour cream (or Greek yogurt) until it comes together. I used one-17.6 ounce tub of Greek yogurt and almost 1 cup lite sour cream. Dough will be seem like it's almost too wet and it's very heavy, but this is what you want. Err on the side of wetter than drier because flour and yeast love moisture when rising.",
+			"Remove dough from the mixing bowl, spray a large bowl with cooking spray, pat dough into a round ball, place it in the bowl, and flip it over once so it's lightly oiled on both top and bottom. It will look like a dimply head of cauliflower.",
+			"Cover bowl with plasticwrap (spray it with cooking spray in case dough rises high enough to touch it) and place bowl in a warm, draft-free place to rise for about 6 to 8 hours (I did 6 1/2 hours), or doubled in size. If you want to start this before work or before bed and made as an overnight dough and it'll go 8-10 hours, that's fine. There's really no harm in letting it rise for up to 18 hours and the longer you let it go, the more of a classic sourdough/fermented flavor that will develop. If you suspect you're going to allow it to rise on the longer side (12-18 hours), reduce yeast to about 1/2 teaspoon so dough doesn't get too puffy and overflow the bowl.",
+			"After 6+ hours of rising, turn dough out onto a floured surface (without punching it down to preserve the air pockets and bubbles that have been created) and knead lightly for about 2 to 3 minutes.",
+			"Pat dough into a round mound, and place it back into large mixing bowl, seam side down. Cover with plastic wrap, and allow to rise for 60 to 120 minutes, or until doubled in size (I did 60 minutes; I suspect the longer you let the second rise go, the more 'holey' the bread will be). Placing the bowl on the stovetop is a nice spot for this rise because you're going to turn on the oven and the residual heat emitted helps with rising.",
+			"Shortly after dough begins the 60-120 minute rising, turn oven on to 450F and place a covered Dutch oven (empty) or heavy-bottomed skillet into the oven and allow it to heat for about 45 minutes. Dutch ovens are so heavy and take so long to get truly hot, and when you're ready to bake the bread, you want the Dutch oven screaming hot.",
+			"After about 60-90 minutes or dough has doubled in size, remove Dutch oven from oven (careful, it's screaming hot, use two pairs of hot mitts) and carefully place a piece of parchment paper on the bottom of Dutch oven to prevent bread from sticking.",
+			"Carefully transfer dough from rising bowl to Dutch oven, cover it, and bake covered for 30 minutes. Don't open the oven door or the Dutch oven lid to peek; you want to seal in the steam.",
+			"After 30 minutes, uncover the Dutch oven, and allow bread to bake uncovered for 5 to 10 minutes (I did 8 minutes) or until it's as browned as desired. Traditional sourdough has a darker crust than most bread (sometimes almost burnt-looking, but I prefer mine on the lighter side).",
+			"Remove Dutch oven from oven, and remove bread from Dutch oven. Place it on a wire rack to cool completely before slicing. As tempting as it is, don't slice too early because the cooling process is important and should be considered an important extension of the baking process. Slice or break off hunks, and serve with honey butter, butter, jam, hummus, etc. Bread is best fresh, but will keep airtight at room temp for up to 3 days. Older bread may be better toasted."
+		]
+	},
+	{
+		"designation" : 6,
+		"title" : "Challah Bread",
+		"categories" : [
+			"bread",
+			"snack"
+		],
+		"serves" : "2 loaves",
+		"prep" : "10 minutes",
+		"wait" : "3.5 hours",
+		"ingredients" : [
+			"Scant 1 Cup water, warmed to about 110F",
+			"2 1/4 Teaspoons active dry yeast",
+			"2 large eggs",
+			"1/4 Cup canola or vegetable oil",
+			"1/4 Cup honey",
+			"3/4 Tablespoons salt (optionally use less to no salt)",
+			"3 1/2 Cups all-purpose flour",
+			"1 large egg, for eggwash"
+		],
+		"instructions" : [
+			"Making the Dough - Add the water to a glass measuring cup or microwave-safe bowl and warm the water to temperature, about 30 seconds on high power. Using a thermometer, check the temperature. If you don't have a thermometer, when inserting your finger, it should feel warm but not hot. Add the water to the bowl of a stand mixer fitted with the paddle attachment. Sprinkle the yeast over the water and let stand for 5 to 10 minutes.",
+			"Add 2 eggs, honey, oil (or butter), salt to taste, and mix on low speed for about 2 minutes, until well combined. Remove the paddle, put on the dough hook, and add 3 cups flour. With the mixer on low speed, allow hook to fold in the flour; it will take a minute or two. Sprinkle in the remaining ½ cup flour and allow it to become just incorporated; don't move into actively kneading the dough; just incorporate the flour and turn mixer off.",
+			"Turn dough out into a lightly greased large mixing bowl (do not knead it), cover bowl with plasticwrap, and allow it to rise in a warm place until doubled in volume, about 2 hours. Punch dough down and either move on to the next step (baking it) or dough can be stored in refrigerator for up to 5 days before baking it later. If baking later, place all the dough into a large bowl or container with a lid, allowing the lid to remain slightly ajar so there is a tiny bit of airflow, and refrigerate dough until you are ready to move onto the next step, Baking Day.",
+			"Baking Day - You can move onto this step immediately after the 2-hour rise, or after the dough has been refrigerated for day(s).",
+			"Divide dough in half; set aside other for later or make two loaves now. If dough is sticky, use floured hands to work with it. Place dough on a Silpat Non-Stick Baking Mat , adding a bit flour if necessary, or place it onto a floured work surface. Divide dough into 3 equal portions. Roll each portion out into a 12-inch long cylinder. The dough is very springy and will want to recoil and shrink back but be patient and keep stretching it or rolling it, either with your hands, a rolling pin, or just stretching it out as best you can; previously refrigerated dough behaves better and has less of a mind of its own.",
+			"After you have 3 long cylinders about 1-inch each in diameter, place them on the baking mat and baking tray where you plan to bake them. Pinch one end of all three together and start braiding down, just like you're braiding hair. After you've reached the end, gently pinch off and tuck the ends underneath the loaf, just making it neat. Cover dough with plastic wrap and allow it to rise in a warm place for 40 minutes if using fresh dough, or for 1 hour 20 minutes if using previously refrigerated dough (even though my dough was fresh, I allowed it to rise for closer to 1 hour rather than just 40 minutes on the baking tray, placed on top of the preheating oven). Preheat oven to 350F midway through this rise.",
+			"Beat 1 egg and immediately prior to baking, brush eggwash all over loaf (I use about half of the egg as I don't want bread to get too 'eggy', just shiny). Sprinkle with optional sesame or poppy seeds (I use neither). Bake for 22 to 25 minutes, or until challah is a pale golden and set. Tthe internal temperature should be ~190F however I judge by color. Allow bread to cool before slicing or pulling apart and serving. I store bread wrapped in plasticwrap, then placed in a ziptop food storage bag or in an airtight container at room temperature for up to 5 days or in the freezer for up to 3 months.",
+			"With the other remaining half of unbaked dough, it can be refrigerated for up to 5 days and then should be used; or it can be frozen and then thawed, and used. This dough may be used for more challah; raisins may be added, or used in dinner rolls, cinnamon rolls; or get creative with it."
+		]
+	},
+	{
+		"designation" : 7,
+		"title" : "Mom's Italian Bread",
+		"categories" : [
+			"bread",
+			"snack"
+		],
+		"serves" : "2 loaves",
+		"prep" : "30 minutes",
+		"wait" : "2 hours",
+		"ingredients" : [
+			"1/4 Ounce active dry yeast",
+			"2 Cups warm water (110F)",
+			"1 Teaspoon sugar",
+			"2 Teaspoons salt",
+			"5 1/2 Cups all-purpose flour"
+		],
+		"instructions" : [
+			"In a large bowl, dissolve yeast in warm water. Add the sugar, salt and 3 cups flour. Beat on medium speed for 3 minutes. Stir in remaining flour to form a soft dough.",
+			"Turn onto a floured surface; knead until smooth and elastic, about 6-8 minutes. Place in a greased bowl, turning once to grease the top. Cover and let rise in a warm place until doubled, about 1 hour.",
+			"Punch dough down. Turn onto a floured surface; divide in half. Shape each portion into a loaf. Place each loaf seam side down on a greased baking sheet. Cover and let rise until doubled, about 30 minutes.",
+			"Meanwhile, preheat oven to 400°. With a sharp knife, make four shallow slashes across top of each loaf. Bake 20-25 minutes or until golden brown. Remove from pans to wire racks to cool. Yield: 2 loaves (12 slices each)."
+		]
+	},
+	{
+		"designation" : 8,
+		"title" : "Easy Bagels",
+		"categories" : [
+			"breakfast",
+			"bread"
+		],
+		"serves" : "12 bagels",
+		"prep" : "30 minutes",
+		"wait" : "30 minutes",
+		"ingredients" : [
+			"4 - 5 Cups flour",
+			"1 Tablespoon brown sugar",
+			"1 Tablespoon dry yeast",
+			"1 Tablespoon canola oil",
+			"1 1/2 Cups warm water"
+		],
+		"instructions" : [
+			"Preheat Oven to 450°.",
+			"Mix yeast with warm water and sugar and stir. Set aside for 5 minutes.",
+			"Add 1 cup of flour at a time to the yeast mixture and salt and oil.",
+			"Mix together, when it starts to get stiff use your hands.",
+			"Put on floured counter and knead until smooth.",
+			"In the meantime, boil a large pot of water for 15 minutes.",
+			"Once dough is well kneaded, cut into twelve even pieces."
+			"Roll pieces and form into bagel shapes.",
+			"Rest for 15 minutes on a greased baking sheet covered with a towel.",
+			"Boil 4 at a time, 30 seconds per side.",
+			"While wet, sprinkle with salt/sesame seeds, etc.",
+			"Put on a baking sheet and bake for about 10 minutes, or until the tops are golden brown."
+		]
+	},
+	{
+		"designation" : 9,
+		"title" : "Slow Cooker Honey BBQ Drumsticks",
+		"categories" : [
+			"dinner"
+		],
+		"serves" : "2",
+		"prep" : "10 minutes",
+		"wait" : "8 hours",
+		"ingredients" : [
+			"8 chicken drumsticks, skin removed",
+			"1 (18 oz) bottle BBQ sauce",
+			"1/4 Cup honey"
+		],
+		"instructions" : [
+			"Spray slow cooker with cooking spray.",
+			"Place drumsticks inside. Evenly distribute them as best as possible.",
+			"In a medium bowl, combine BBQ sauce and honey. Pour evenly over drumsticks.",
+			"Cover and cook on LOW for 6 - 8 hours or until done."
+		]
+	},
+	{
+		"designation" : 10,
+		"title" : "Chocolate Chip Banana Bread",
+		"categories" : [
+			"bread",
+			"snack",
+			"dessert"
+		],
+		"serves" : "1 loaf",
+		"prep" : "10 minutes",
+		"wait" : "70 minutes",
+		"ingredients" : [
+			"1/4 Cup vegetable oil",
+			"1 1/2 Cups flour",
+			"1 Cup sugar",
+			"1 Teaspoon baking soda",
+			"1/2 Teaspoon salt",
+			"2 eggs, lightly beaten",
+			"3 bananas, mashed",
+			"1 Cup chocolate chips"
+		],
+		"instructions" : [
+			"Preheat the oven to 350 F.",
+			"Grease and flour a 8 1/2 inch x 4 1/2 inch loaf pan",
+			"In a large bowl, whisk together the flour, sugar, baking soda and salt.",
+			"Mix in the oil, bananas, and eggs.",
+			"Stir in the chocolate chips (do not overmix!) and pour into the prepared pan.",
+			"Bake until a toothpick inserted in the center comes out clean, about 60-80 minutes.",
+			"Cool the loaf in the pan for 10 minutes, then turn out and cool completely, right side up."
+		]
+	},
+	{
+		"designation" : 11,
+		"title" : "",
+		"categories" : [
+			"",
+			""
+		],
+		"serves" : "",
+		"prep" : "",
+		"wait" : "",
+		"ingredients" : [
+			"",
+			"",
+			""
+		],
+		"instructions" : [
+			"",
+			""
+		]
+	},
+	{
+		"designation" : 12,
 		"title" : "",
 		"categories" : [
 			"",
