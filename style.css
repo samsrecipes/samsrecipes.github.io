@@ -105,6 +105,12 @@
   background-color: #337ab7;
 }
 
+#btn-random-recipe {
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
 
 /* =============
    CONTENT BLOCK

@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Cookbook Test29</title>
+    <title>Cookbook Test30</title>
   <meta name="author" content="Sam Ellis">
   <meta name="description" content="Recipe database website">
   <meta name="keywords" content="cookbook,recipe,recipes,cook,cooking">
@@ -64,9 +64,10 @@
             <li id="snack-nav"><a href="#">Snack</a></li>
             <li id="soup-nav"><a href="#">Soup</a></li>
           </ul>
-          <ul class="nav nav-sidebar">
-            <li><a href="">Random Recipe</a></li>
-          </ul>
+          <button type="button" class="btn btn-default navbar-btn" id="btn-random-recipe" data-toggle="modal" data-designation="" data-target="#recipe-modal">Random Recipe</button>
+          <form>
+            <input type="text" class="form-control" placeholder="Search">
+          </form>
         </div> <!-- End Sidebar Nav -->
 
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 recipe-block"> <!-- Holds recipes from JSON -->
