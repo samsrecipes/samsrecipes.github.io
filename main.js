@@ -21,9 +21,9 @@ jQuery(document).ready(function() {
 
     });
 
-    $('#btn-random-recipe').click(function() {
-    	$('#btn.btn-random-recipe').data-designation = randomRecipe();
-    });
+    // $('#btn-random-recipe').click(function() {
+    // 	$('#btn.btn-random-recipe').data-designation = randomRecipe();
+    // });
 
     $('#recipe-modal').on('show.bs.modal', function(e) {
 
