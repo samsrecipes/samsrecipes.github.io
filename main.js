@@ -21,9 +21,12 @@ jQuery(document).ready(function() {
 
     });
 
-    // $('#btn-random-recipe').click(function() {
-    // 	$('#btn.btn-random-recipe').data-designation = randomRecipe();
-    // });
+    $('#search-box').keyup(function() {
+    	var matcher = new RegExp($(this).val(), 'gi');
+    	$('.recipe-item').show().not(function() {
+    		return matcher.test($(this).find('.panel-heading').text());
+    	}).hide();
+    });
 
     $('#recipe-modal').on('show.bs.modal', function(e) {
 
