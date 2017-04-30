@@ -123,10 +123,6 @@
    RECIPE CARD
    =========== */
 
-.panel {
-	min-height: 250px;
-}
-
 .panel-heading {
 	font-size: 1.2em;
 	font-weight: bold;
@@ -140,14 +136,6 @@
 	margin: auto;
 }
 
-.recipe-panel {
-	position: relative;
-}
-
-.recipe-item button {
-	position: absolute;
-	bottom: 30px;
-}
 
 
 /* =====
