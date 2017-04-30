@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Cookbook Test32</title>
+    <title>Cookbook Test33</title>
   <meta name="author" content="Sam Ellis">
   <meta name="description" content="Recipe database website">
   <meta name="keywords" content="cookbook,recipe,recipes,cook,cooking">
@@ -32,14 +32,14 @@
             <h4 class="modal-title"></h4>
           </div>
           <div class="modal-body">
-            <h3>- Ingredients -</h3>
+            <h3>Ingredients</h3>
             <ul class="modal-ingredients-list">
                 
             </ul>
-            <h3>- Instructions -</h3>
-            <ul class="modal-steps-list">
+            <h3>Instructions</h3>
+            <ol class="modal-steps-list">
 
-            </ul>
+            </ol>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -64,14 +64,23 @@
             <li id="snack-nav"><a href="#">Snack</a></li>
             <li id="soup-nav"><a href="#">Soup</a></li>
           </ul>
-          <button type="button" class="btn btn-default navbar-btn" id="btn-random-recipe" data-toggle="modal" data-designation="" data-target="#recipe-modal">Random Recipe</button>
           <form>
             <input type="text" class="form-control" placeholder="Search" id="search-box">
           </form>
         </div> <!-- End Sidebar Nav -->
 
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 recipe-block"> <!-- Holds recipes from JSON -->
-
+          <div class="recipe-item col-md-4 col-sm-4">
+            <div class="panel panel-default recipe-panel">
+              <div class="panel-heading">Recipe Title</div>
+              <div class="panel-body">
+                <p><img class="card-icon" src="img/users.svg">serves: <strong>1</strong></p>
+                <p><img class="card-icon" src="img/clock.svg">prep: <strong>10 minutes</strong></p>
+                <p><img class="card-icon" src="img/clock.svg">wait: <strong>30 minutes</strong></p>
+                <button type="button" class="btn btn-default">View Recipe</button>
+              </div>
+            </div>
+          </div>
         </div>
 
       </div>

@@ -105,10 +105,8 @@
   background-color: #337ab7;
 }
 
-#btn-random-recipe {
-	width: 100%;
-	margin-top: 20px;
-	margin-bottom: 40px;
+#search-box {
+	margin-top: 50px;
 }
 
 
@@ -117,13 +115,13 @@
    ============= */
 
 .recipe-block {
-	margin-top: 50px;
+	margin-top: 20px;
 }   
 
 
 /* ===========
    RECIPE CARD
-   ==========  */
+   =========== */
 
 .panel {
 	min-height: 250px;
@@ -140,4 +138,31 @@
 
 .panel-footer {
 	margin: auto;
+}
+
+.recipe-panel {
+	position: relative;
+}
+
+.recipe-item button {
+	position: absolute;
+	bottom: 15px;
+}
+
+
+/* =====
+   MODAL
+   ===== */
+
+.modal-title {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.modal-body > h3 {
+	text-align: center;
+}
+
+.modal-steps-list > li {
+	margin-bottom: 5px;
 }
