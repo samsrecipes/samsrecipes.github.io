@@ -9,7 +9,7 @@
 			"dessert"
 		],
 		"serves" : "1",
-		"prep" : "1 minute",
+		"prep" : "2 minute",
 		"wait" : "1 minute",
 		"ingredients" : [
 			"2 bananas - cut into chunks and frozen",
@@ -302,44 +302,387 @@
 	},
 	{
 		"designation" : 11,
-		"title" : "",
+		"title" : "Baked Chicken Parm",
 		"categories" : [
-			"",
-			""
+			"dinner"
 		],
-		"serves" : "",
-		"prep" : "",
-		"wait" : "",
+		"serves" : "4",
+		"prep" : "10 minutes",
+		"wait" : "30 minutes",
 		"ingredients" : [
-			"",
-			"",
-			""
+			"4 chicken breasts, fat trimmed, sliced in half",
+			"3/4 Cup seasoned breadcrumbs",
+			"1/4 Cup grated Parmesan cheese",
+			"2 Tablespoons butter, melted (or olive oil)",
+			"3/4 Cup mozzarella cheese",
+			"1 Cup marinara"
 		],
 		"instructions" : [
-			"",
-			""
+			"Preheat oven to 450 F. Spray a large baking sheet lightly with spray.",
+			"Combine breadcrumbs and parmesan cheese in a bowl. Melt the butter in another bowl. Lightly brush the butter onto the chicken, then dip into breadcrumb mixture.  Place on baking sheet and repeat with the remaining chicken.",
+			"Lightly spray a little more oil on top and bake in the oven for 25 minutes.",
+			"Remove from oven, spoon 1 Tablespoon sauce over each piece of chicken and top each with 1 and 1/2 Tablespoons of shredded mozzarella cheese.",
+			"Bake for 5 more minutes or until cheese is melted."
 		]
 	},
 	{
 		"designation" : 12,
+		"title" : "Pork Tenderloin w/ Marinade",
+		"categories" : [
+			"dinner"
+		],
+		"serves" : "8",
+		"prep" : "10 minutes",
+		"wait" : "2 hours",
+		"ingredients" : [
+			"1 or 2 pork tenderloin",
+			"1/4 Cup sugar",
+			"1/4 Cup olive oil",
+			"1/3 Cup soy sauce",
+			"1 Bottle (small) hoisen sauce"
+		],
+		"instructions" : [
+			"Put all ingredients in ziplock, mix.",
+			"Add tenderloin to ziplock.",
+			"Let sit for 1 - 2 hours or overnight.",
+			"Preheat grill to 375 F.",
+			"Cook 30 minutes and turn every 10 - 15 minutes.",
+			"Let sit for 10 minutes before serving.",
+			"While cooking, boil marinade over low temp and serve with meat."
+		]
+	},
+	{
+		"designation" : 13,
+		"title" : "Chocolate Peanut Butter Balls",
+		"categories" : [
+			"snack"
+		],
+		"serves" : "10",
+		"prep" : "15 minutes",
+		"wait" : "1 hour",
+		"ingredients" : [
+			"1 Cup peanut butter or almond butter",
+			"1/4 Cup honey",
+			"3 Cup old fashioned oats",
+			"2 - 3 Scoops chocolate protein powder",
+			"1/3 Cup water"
+		],
+		"instructions" : [
+			"Mix all ingredients.",
+			"Roll into 1 inch balls.",
+			"Freeze and leave frozen.",
+			"Take out to eat immediately or pack for a later snack."
+		]
+	},
+	{
+		"designation" : 14,
+		"title" : "Peanut Butter Bites",
+		"categories" : [
+			"snack"
+		],
+		"serves" : "6",
+		"prep" : "15 minutes",
+		"wait" : "1 hour",
+		"ingredients" : [
+			"1/2 Cup peanut or almond butter",
+			"1/4 Cup honey",
+			"1 - 2 Scoops protein powder",
+			"1/4 Cup water",
+			"2 Cups oats"
+		],
+		"instructions" : [
+			"Mix all ingredients.",
+			"Roll into 1 inch balls.",
+			"Freeze and leave frozen.",
+			"Take out to eat immediately or pack for a later snack."
+		]
+	},
+	{
+		"designation" : 15,
+		"title" : "Express Bagels",
+		"categories" : [
+			"bread",
+			"breakfast"
+		],
+		"serves" : "6",
+		"prep" : "30",
+		"wait" : "1 hour",
+		"ingredients" : [
+			"2 1/2 Cups bread flour",
+			"1/2 Teaspoon instant dry yeast",
+			"1 Tablespoon sugar",
+			"1 Teaspoon salt",
+			"1 Cup lukewarm water"
+		],
+		"instructions" : [
+			"Put flour, sugar, and salt into large bowl and mix lightly. Add yeast and water, then knead together ingredients with hands. The dough will be sticky at first.",
+			"Once you have combined the ingredients into a manageable dough, take out the dough onto a flat kneading surface. Knead dough firmly with your hands until the dough is no longer lumpy and powdery, approximately 15min. Add sprinkles of water or flour as necessary to keep the dough manageable -- it will get elastic but pretty stiff.",
+			"Cut dough into 6 pieces. Shape each piece into a ball. Cover with plastic wrap or a damp paper towel to prevent drying.",
+			"Shape the dough. You can either poke a hole in the middle with your finger and stretch out into a bagel shape or roll out the dough into a rope and tie the ends together. The dough will expand, so leave a nice big hole in the middle.",
+			"Cover the bagels with plastic wrap and let rest for about 15 minutes (30-40 min during winter time).",
+			"In the meantime, fill a large pot with water and a teaspoon of sugar or honey and bring to a simmer. Preheat oven to 375 degrees.",
+			"When the dough is ready, carefully drop them into the water and let them simmer for about 15 seconds on each side, flipping them only once. The bagels should float. Keeping the water boiling too hard or flipping too much will cause the surface of the bagels to crinkle later. I usually boil two at a time.",
+			"Take the bagels out with a slotted spoon and blot excess water. If you would like to add toppings, do so now. For small or crumbly toppings such as sesame and poppyseed, dump out the toppings on a small plate and gently press the top of the bagel into the topping.",
+			"Put the bagels onto a baking sheet and let bake until brown, approximately 15 minute."
+		]
+	},
+	{
+		"designation" : 16,
+		"title" : "BBQ Shredded Chicken",
+		"categories" : [
+			"dinner"
+		],
+		"serves" : "8",
+		"prep" : "20 minutes",
+		"wait" : "2 hours",
+		"ingredients" : [
+			"3 - 4 Pounds boneless skinless chicken thighs",
+			"Olive Oil"
+			"1 large onion, diced",
+			"2 Cloves garlic, minced",
+			"2 Teaspoons smoked paprika",
+			"2 Teaspoons salt",
+			"Freshly ground black pepper",
+			"1 1/2 Cups BBQ sauce"
+		],
+		"instructions" : [
+			"Heat the oven to 325°F. Remove the chicken from its packaging and pat it dry.",
+			"In a Dutch oven or heavy pot (with a lid) heat a drizzle of olive oil over medium heat. Cook the onion and garlic for 5 minutes or until quite soft. Add the smoked paprika and stir. Add the chicken one piece at a time, stirring to mix well with the onion. Stir in the salt and a few generous grinds of black pepper. Pour in the barbecue sauce and bring to a simmer. Turn off the heat.",
+			"Cover the pot with a heavy lid and put in the oven. Bake, covered, for 90 minutes, or until the chicken is extremely tender. Remove from the oven and use a slotted spoon to transfer the chicken to a large bowl. Use two forks to shred the chicken finely.",
+			"While you're shredding the chicken, put the sauce, uncovered, back on the stove over high heat. Bring to a boil and reduce the liquid in the pan to about half of its volume. Pour this thickened sauce over the chicken and stir.",
+			"Serve with buns, slaw, avocado, and extra barbecue sauce on the side. Refrigerate for up to 5 days or freeze for up to 3 months.",
+			"Slow-cooker instructions: Follow the recipe as written above, but instead of putting the chicken and sauce in the oven, pour it all into a slow cooker. Cook for 5 to 7 hours on LOW. If desired, you can lift out the chicken and reduce the sauce in a separate pan on the stovetop, but this may not be necessary; it simply depends on your preference."
+		]
+	},
+	{
+		"designation" : 17,
+		"title" : "Slow Cooker Pulled Pork",
+		"categories" : [
+			"dinner"
+		],
+		"serves" : "6",
+		"prep" : "10 minutes",
+		"wait" : "9 hours",
+		"ingredients" : [
+			"3 Pounds boneless pork shoulder, skin and excess fat removed",
+			"1 onion, chopped",
+			"1/2 Cup low-sodium chicken broth or water",
+			"2 Cups BBQ sauce",
+			"2 Tablespoons mustard",
+			"2 Tablespoons honey",
+			"1 Tablespoon soy sauce",
+			"Salt and pepper"
+		],
+		"instructions" : [
+			"Trim pork of any excess fat. Scatter onion over bottom of slow cooker and place pork on top. Add broth, cover and cook on low until very tender, about 8 hours. Remove meat and let cool.",
+			"When cool enough to handle, pull meat into thin shreds, removing all fat and gristle. Skim excess fat from liquid in slow cooker.",
+			"Return pulled pork to slow cooker and stir in barbecue sauce, mustard, honey and soy sauce. Season with salt and pepper. Cook for 1 hour longer on low. If desired, serve with hamburger buns and sides of pinto beans, corn, tomatoes and coleslaw."
+		]
+	},
+	{
+		"designation" : 18,
+		"title" : "Coconut Curry Chicken",
+		"categories" : [
+			"dinner"
+		],
+		"serves" : "6",
+		"prep" : "30 minutes",
+		"wait" : "5 hours",
+		"ingredients" : [
+			"2 Pounds chicken breast, cut into chunks",
+			"2 Tablespoons coconut oil",
+			"3 garlic cloves, minced",
+			"1 medium onion, chopped",
+			"1 (13.5 Oz) can full fat coconut milk",
+			"1 (6 Oz) can tomato paste",
+			"2 Teaspoons garam masala",
+			"1 Teaspoon curry powder",
+			"1 Teaspoon chili powder",
+			"2 Tablespoons cornstarch",
+			"1 Teaspoon fine grain sea salt",
+			"1/4 Teaspoon ground black pepper"
+		],
+		"instructions" : [
+			"Heat coconut oil in a medium skillet over medium-high heat. Add onion and garlic and saute’ for 4 to 5 minutes, until translucent. Add garam masala, curry powder and chili powder and saute’ for 1 minute, until fragrant.",
+			"Stir in coconut milk, tomato paste, salt, and pepper. Reduce the heat to low.",
+			"In a small bowl combine cornstarch with 4 tablespoons of cold water, and gently stir into the coconut milk mixture. Turn off the heat.",
+			"Grease the inside of your crockpot bowl with a bit of olive oil. Add chicken chunks, pour the sauce over it, and stir to coat. Cover and cook on low setting for 4 to 5 hours."
+		]
+	},
+	{
+		"designation" : 19,
+		"title" : "Beer Braised BBQ Pork Butt",
+		"categories" : [
+			"dinner"
+		],
+		"serves" : "8",
+		"prep" : "15 minutes",
+		"wait" : "5 hours",
+		"ingredients" : [
+			"Dry Rub:",
+			"2 Tablespoons salt",
+			"40 Grinds black pepper",
+			"2 Tablespoons chili powder",
+			"1 Tablespoon garlic powder",
+			"2 Teaspoons ground coriander",
+			"2 Teaspoons ground mustard seed",
+			"12 Oz good ale or dark beer",
+			"4 cloves garlic, chopped",
+			"1 5-Pound pork butt (shoulder of the animal)",
+			"BBQ Pork Butt:",
+			"1/2 Cup ketchup",
+			"2 Tablespoons whole grain Dijon mustard",
+			"3 Tablespoons Worcestershire sauce",
+			"1/3 Cup dark brown sugar"
+		],
+		"instructions" : [
+			"Combine rub ingredients in a bowl and mix well. Rub all over pork butt. Wrap in plastic wrap and refrigerate for at least one hour and as long as overnight.",
+			"Preheat oven to 500 degrees F. Unwrap pork and place in a roasting pan with sides about 2 inches high. Cook 45 minutes until dark browned and even blackening in places. Remove from oven. Lower oven to 325 degrees F. Pour beer over the top and add chopped garlic around the pork. Cover tightly with heavy duty aluminum foil or twice with regular foil. Poke about 10 holes all over the top of the foil. Cook pork butt 2 1/2 hours longer until so tender that it comes away very easily from center bone.",
+			"Place the meat on a plate and pour the pan juice (there will be plenty) into a saucepan.",
+			"To the pan juices add the ketchup, mustard, Worcestershire and brown sugar. Bring to a simmer until reduced by half and thick, about 20 minutes.",
+			"While the sauce is boiling down, pull apart the pork with 2 forks. Pour the sauce over the pulled pork and work through until fully absorbed."
+		]
+	},
+	{
+		"designation" : 20,
+		"title" : "Steel Cut Oats",
+		"categories" : [
+			"breakfast"
+		],
+		"serves" : "4",
+		"prep" : "5 minutes",
+		"wait" : "35 minutes",
+		"ingredients" : [
+			"3 Cups water",
+			"1 Cup milk of choice: almond, cow's, coconut, etc.",
+			"1 Tablespoon coconut oil",
+			"1 Cup steel-cut oats",
+			"1/4 Teaspoon salt"
+		],
+		"instructions" : [
+			"In a large saucepan, combine the water and milk. Bring the mixture to a simmer over medium heat. In the meantime, melt the coconut oil (or butter) in a 12-inch skillet over medium heat. Once shimmering, add the oats and cook, stirring occasionally, until golden and fragrant, around 2 minutes. This toasting step greatly enhances the flavor of the oats.",
+			"Stir the oats into the simmering water/milk mixture. Reduce the heat to medium low and simmer gently for about 20 minutes, stirring occasionally, until the mixture is very thick.",
+			"Stir in the salt. Continue to simmer the mixture, stirring occasionally and reducing heat as necessary to prevent scorching on the bottom, until almost all of the liquid is absorbed, about 10 minutes. (If you have doubled the recipe, your oatmeal might need an extra 5 minutes cooking time here.) The oatmeal will be very creamy when it’s done.",
+			"Remove from heat and stir in any mix-ins that you’d like. Let the oatmeal rest for 5 minutes before serving so it has more time to thicken up and cool down a palatable temperature.",
+			"Portion oatmeal into bowls and add any toppings you’d like to portions that you intend to serve immediately. Let any extra oatmeal cool completely before covering and refrigerating for future breakfasts."
+		]
+	},
+	{
+		"designation" : 21,
+		"title" : "Mashed Sweet Potatoes",
+		"categories" : [
+			"dinner",
+			"appetizer"
+		],
+		"serves" : "6",
+		"prep" : "15 minutes",
+		"wait" : "30 minutes",
+		"ingredients" : [
+			"6 sweet potatoes, pelled and cubed",
+			"3/4 Cup milk",
+			"1 - 2 Tablespoons butter"
+		],
+		"instructions" : [
+			"Bring a large pot of salted water to a boil. Add potatoes and cook until tender, 20 to 30 minutes.",
+			"With an electric mixer on low, blend potatoes, slowly adding milk, about 1/2 a cup at a time. Use more or less to achieve desired texture. Add butter and maple syrup to taste. Blend until smooth. Serve warm."
+		]
+	},
+	{
+		"designation" : 22,
 		"title" : "",
 		"categories" : [
-			"",
 			""
 		],
 		"serves" : "",
 		"prep" : "",
 		"wait" : "",
 		"ingredients" : [
-			"",
-			"",
 			""
 		],
 		"instructions" : [
-			"",
 			""
 		]
-	}
+	},
+	{
+		"designation" : 23,
+		"title" : "",
+		"categories" : [
+			""
+		],
+		"serves" : "",
+		"prep" : "",
+		"wait" : "",
+		"ingredients" : [
+			""
+		],
+		"instructions" : [
+			""
+		]
+	},
+	{
+		"designation" : 24,
+		"title" : "",
+		"categories" : [
+			""
+		],
+		"serves" : "",
+		"prep" : "",
+		"wait" : "",
+		"ingredients" : [
+			""
+		],
+		"instructions" : [
+			""
+		]
+	},
+	{
+		"designation" : 25,
+		"title" : "",
+		"categories" : [
+			""
+		],
+		"serves" : "",
+		"prep" : "",
+		"wait" : "",
+		"ingredients" : [
+			""
+		],
+		"instructions" : [
+			""
+		]
+	},
+	{
+		"designation" : 26,
+		"title" : "",
+		"categories" : [
+			""
+		],
+		"serves" : "",
+		"prep" : "",
+		"wait" : "",
+		"ingredients" : [
+			""
+		],
+		"instructions" : [
+			""
+		]
+	},
+	{
+		"designation" : 27,
+		"title" : "",
+		"categories" : [
+			""
+		],
+		"serves" : "",
+		"prep" : "",
+		"wait" : "",
+		"ingredients" : [
+			""
+		],
+		"instructions" : [
+			""
+		]
+	},
 ]
 
 }
