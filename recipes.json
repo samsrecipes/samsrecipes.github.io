@@ -589,50 +589,90 @@
 	},
 	{
 		"designation" : 22,
-		"title" : "",
+		"title" : "Chicken & Chorizo Paella",
 		"categories" : [
-			""
+			"dinner"
 		],
-		"serves" : "",
-		"prep" : "",
-		"wait" : "",
+		"serves" : "4",
+		"prep" : "10 minutes",
+		"wait" : "40 minutes",
 		"ingredients" : [
-			""
+			"1 Tablespoon olive oil",
+			"2 chicken breasts, cut into chunks",
+			"2 small onions, finely diced",
+			"1 fat garlic clove, crushed",
+			"140 Grams chorizo, sliced",
+			"1 Teaspoon turmeric",
+			"Pinch of saffron",
+			"1 Teaspoon paprika",
+			"300 Grams paella rice",
+			"180 mL chicken or vegetable stock"
 		],
 		"instructions" : [
-			""
+			"Heat the oil in a deep frying pan over a high heat. Add the chicken and brown all over – don’t cook completely. Once browned, transfer to a plate. Reduce the heat to low, add the onions and cook slowly until softened, about 10 mins.",
+			"Add the garlic, stir for 1 min, then toss in the chorizo and fry until it releases its oils. Stir in the spices, then tip in the rice. Stir to coat the rice in the oils and spices for about 2 mins, then pour in the hot stock. Bring to the boil, return the chicken to the pan and simmer for about 20 mins, stirring occasionally.",
+			"Simmer for a further 5 mins until the rice is cooked and the chicken is tender. Season well and serve."
 		]
 	},
 	{
 		"designation" : 23,
-		"title" : "",
+		"title" : "Brownies",
 		"categories" : [
-			""
+			"dessert"
 		],
-		"serves" : "",
-		"prep" : "",
-		"wait" : "",
+		"serves" : "8",
+		"prep" : "25 minutes",
+		"wait" : "30 minutes",
 		"ingredients" : [
-			""
+			"1/2 Cup butter",
+			"1 Cup white sugar",
+			"2 eggs",
+			"1 Teaspoon vanilla extract",
+			"1/3 Cup unsweetened cocoa powder",
+			"1/2 Cup all-purpose flour",
+			"1/4 Teaspoon salt",
+			"1/4 Teaspoon baking powder"
 		],
 		"instructions" : [
-			""
+			"Preheat oven to 350 Degrees F. Grease and flour an 8-inch square pan.",
+			"Melt the butter in a large saucepan. Remove from heat and stir in sugar, eggs and vanilla.",
+			"Beat in cocoa, flour, salt, and baking powder. Spread batter into prepared pan.",
+			"Bake in preheated over for 25 to 30 minutes. Do not overcook."
 		]
 	},
 	{
 		"designation" : 24,
-		"title" : "",
+		"title" : "Sausage & Shrimp Jambalaya",
 		"categories" : [
-			""
+			"dinner"
 		],
-		"serves" : "",
-		"prep" : "",
-		"wait" : "",
+		"serves" : "8",
+		"prep" : "20 minutes",
+		"wait" : "1 hour",
 		"ingredients" : [
-			""
+			"4 Tablespoons butter",
+			"12 Ounces andouille sausage, cut into 1/4 inch slices",
+			"3 Tablespoons paprika",
+			"2 Tablespoons ground cumin",
+			"3/4 Teaspoon cayenne pepper",
+			"2 bay leaves",
+			"2 Teaspoons salt",
+			"2 peppers, diced",
+			"4 Stalks celery, sliced 1/4 inch thick",
+			"1 onion, chopped",
+			"2 Cups uncooked brown rice",
+			"6 Cups chicken stock",
+			"1 pound large shrimp",
+			"4 green onions, sliced thin"
 		],
 		"instructions" : [
-			""
+			"Place butter and sausage in a large stockpot over medium heat; cook and stir for 5-6 minutes until sausage begins to brown.",
+			"Stir in paprika, cumin and cayenne; cook for 1 minute.",
+			"Stir in onions, celery, pepper, salt and bay leaves.",
+			"Add brown rice and stir to combine. Stir in chicken stock and turn heat to low.",
+			"Cover and cook for 45 minutes, or until the rice is just tender.",
+			"Stir in shrimp, replace lid and cook for 5 minutes.",
+			"Season with salt and pepper to taste. Serve garnished with green onion."
 		]
 	},
 	{
