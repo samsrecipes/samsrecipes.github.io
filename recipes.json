@@ -677,18 +677,30 @@
 	},
 	{
 		"designation" : 25,
-		"title" : "",
+		"title" : "Easy Quiche",
 		"categories" : [
-			""
+			"breakfast"
 		],
-		"serves" : "",
-		"prep" : "",
-		"wait" : "",
+		"serves" : "4",
+		"prep" : "10 minutes",
+		"wait" : "45 minutes",
 		"ingredients" : [
-			""
+			"3 eggs",
+			"1 Cup skim milk",
+			"1/2 Cup cottage cheese",
+			"1/2 Cup grated swiss cheese",
+			"Pinch of dry mustard",
+			"1 Teaspoon salt",
+			"Sprinkle of pepper",
+			"Sprinkle of parsley",
+			"9 inch pie shell"
 		],
 		"instructions" : [
-			""
+			"Bake 9 inch pie shell",
+			"Beat eggs until frothy. Add all ingredients except swiss cheese and whip until combined.",
+			"Line baked shell with cheese.",
+			"Pour in egg mixture.",
+			"Bake in 325 F oven for 45 minutes."
 		]
 	},
 	{
