@@ -705,18 +705,29 @@
 	},
 	{
 		"designation" : 26,
-		"title" : "",
+		"title" : "Basic Pasta",
 		"categories" : [
-			""
+			"dinner"
 		],
-		"serves" : "",
-		"prep" : "",
-		"wait" : "",
+		"serves" : "4",
+		"prep" : "30 minutes",
+		"wait" : "30 minutes",
 		"ingredients" : [
-			""
+			"1 1/2 Cups Semolina Flour",
+			"1 1/2 Cups All Purpose Flour",
+			"1 Teaspoon Salt, optional",
+			"4 Eggs, beaten",
+			"Just shy 4 Tablespoons Water",
+			"Just shy 4 Tablespoons Olive Oil"
 		],
 		"instructions" : [
-			""
+			"Combine both flours and salt. Mix until even and create a well in the center.",
+			"Add beaten eggs, water, and olive oil into the well. Using a fork, slowly incorporate more and more flour into the liquid.",
+			"Turn dough out onto a flat surface and knead until smooth, around 10 minutes. Add flour as needed to prevent sticking.",
+			"Form the dough into a hockey puck shape, wrap and plastic wrap, and let sit for 20 - 30 minutes.",
+			"On a lightly floured surface, roll out dough to desired thickness and cut into reasonably sized pieces",
+			"Use the pasta extruder to flatten, and then run the sheets through the spaghetti cutter. Make sure to flour at each step to prevent sticking.",
+			"Bring a large pot of water to boil and cook pasta until tender, usually around 2 - 3 minutes."
 		]
 	},
 	{
